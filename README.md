@@ -8,8 +8,11 @@ Pyhton 3 and Anaconda
 ## File Descriptions
 
 1 notebook created in JupyterLab. File name: Analyze_ab_test_results.ipynb
+
 1 pdf file documenting the process. File name: wrangle_report.pdf
+
 1 pdf file documenting the conclusion. File name: act_report.pdf
+
 
 ## Authors
 - [David Bohnhoff](https://github.com/DataaDave)
