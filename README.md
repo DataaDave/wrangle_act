@@ -18,9 +18,10 @@ Pyhton 3 and Anaconda
 - [David Bohnhoff](https://github.com/DataaDave)
 
 ## Results
-The results are available [here]()
+The results are available [here](https://github.com/DataaDave/wrangle_act/blob/master/wrangle_act.ipynb)
 
 ## Acknowledgements
 
-Udacity for the course
-WeRateDogs for the Tweets
+- Udacity for the course
+
+- WeRateDogs for the Tweets
