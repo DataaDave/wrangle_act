@@ -14,7 +14,7 @@ Pyhton 3 and Anaconda
 - 1 pdf file documenting the conclusion. File name: act_report.pdf
 
 
-## Authors
+## Author
 - [David Bohnhoff](https://github.com/DataaDave)
 
 ## Results
